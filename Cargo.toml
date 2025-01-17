@@ -24,7 +24,7 @@ risc0-binfmt = { version = "1.2.0", default-features = false }
 
 # Alloy guest dependencies
 alloy-consensus = { version = "0.6.1" }
-alloy-rlp = { version = "0.3.8" }
+alloy-rlp = { version = "0.3.11" }
 alloy-primitives = { version = "0.8.8" }
 alloy-sol-types = { version = "0.8.8" }
 
